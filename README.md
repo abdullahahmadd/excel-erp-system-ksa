@@ -2,10 +2,7 @@
 ### 🎓 Personal Project
 
 ![Visitors](https://komarev.com/ghpvc/?username=yourusername&repo=excel-erp-system-ksa&color=blue)
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
-![VBA](https://img.shields.io/badge/Automation-VBA-blue)
-![ERP](https://img.shields.io/badge/System-ERP-orange)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-green)
 
 ---
 
