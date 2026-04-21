@@ -144,13 +144,6 @@ The system is structured into the following Excel sheets:
 
 ---
 
-| 6. Invoice Print Preview |
-|--------------------------|
-| ![Print](Results/invoice_print_preview.png) |
-| Professional A4 invoice layout ready for printing. |
-
----
-
 | 7. Sample Invoice PDF |
 |-----------------------|
 | ![PDF](Sample_Invoices/invoice_SO001.pdf) |
